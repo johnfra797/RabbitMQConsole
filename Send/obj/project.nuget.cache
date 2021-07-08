@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "22kcfxdJnDiboLYkz//T2P2Wy4nloKHVJjBLqWE2AwfW71X/+n6KknNqJAxOe2X1u9tmif/ASLxiQb9LrkEgHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arduino\\Desktop\\Repositorios\\RabbitMQConsole\\Send\\Send.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arduino\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Arduino\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Arduino\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
